@@ -21,7 +21,7 @@ The folder cointains the following files:
 
 - "Report.docx": doc file reporting the response to 4c), 5) and 6) questions:
 
-#### Disclaimer
+#### Note
 Input data have not been uploaded in the GitHub reporsitory
 
 
